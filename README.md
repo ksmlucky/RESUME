@@ -80,6 +80,7 @@
 - 기술: Python, MongoDB, Flask, html, AWS
 - 현황: 2020.07.00 기능 구현 완료
 - [repository](https://github.com/ksmlucky/SalesPage)
+- [SalesPage](http://startupchild.shop)
 
 ### 임베디드 프로그래밍(TCP 통신을 이용한 체스게임)
 
